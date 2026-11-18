@@ -15,7 +15,7 @@ Record accounted time in an Activty Dialog without having an article field in it
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
